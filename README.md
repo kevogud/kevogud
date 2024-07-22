@@ -1,4 +1,5 @@
-- My Name is Kevin Ogudugu - Happy to talk! - ogudugu.k@northeastern
+- My Name is Kevin Ogudugu - Happy to talk!
+   - ogudugu.k@northeastern
 - Currently: MSc Student-Athlete @ Northeastern University in Data Analytics
 - Northeastern Men's Soccer Team
 - Business Analyst @ Expandic Consulting, Remote (Greater Europe)
